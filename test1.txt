@@ -1,3 +1,7 @@
 ÔõÃ´Ñù
 
 change two
+
+method one(one){
+	add one;
+}
